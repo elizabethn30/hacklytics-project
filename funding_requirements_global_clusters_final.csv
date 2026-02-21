@@ -1,0 +1,435 @@
+,Unnamed: 0,countryCode,countryName,id,name,code,startDate,endDate,year,clusterCode,cluster,requirements,funding,percentFunded
+0,1,AFG,Afghanistan,1263,Afghanistan Humanitarian Needs and Response Plan 2025,HAFG25,1/1/2025,12/31/2025,2025,26480.0,Coordination and Support Services,34120000.0,7101118.0,21.0
+1,3,AFG,Afghanistan,1263,Afghanistan Humanitarian Needs and Response Plan 2025,HAFG25,1/1/2025,12/31/2025,2025,3.0,Education,93276385.0,80113551.0,86.0
+2,4,AFG,Afghanistan,1263,Afghanistan Humanitarian Needs and Response Plan 2025,HAFG25,1/1/2025,12/31/2025,2025,4.0,Emergency Shelter and NFI,179139629.0,28287010.0,16.0
+3,5,AFG,Afghanistan,1263,Afghanistan Humanitarian Needs and Response Plan 2025,HAFG25,1/1/2025,12/31/2025,2025,6.0,Food Security,1089437667.0,202583088.0,19.0
+4,6,AFG,Afghanistan,1263,Afghanistan Humanitarian Needs and Response Plan 2025,HAFG25,1/1/2025,12/31/2025,2025,7.0,Health,279735840.0,127002611.0,45.0
+5,7,AFG,Afghanistan,1263,Afghanistan Humanitarian Needs and Response Plan 2025,HAFG25,1/1/2025,12/31/2025,2025,8.0,Logistics,31000000.0,6986713.0,23.0
+6,10,AFG,Afghanistan,1263,Afghanistan Humanitarian Needs and Response Plan 2025,HAFG25,1/1/2025,12/31/2025,2025,9.0,Nutrition,296446414.0,102302656.0,35.0
+7,12,AFG,Afghanistan,1263,Afghanistan Humanitarian Needs and Response Plan 2025,HAFG25,1/1/2025,12/31/2025,2025,10.0,Protection,37833707.0,79636257.0,210.0
+8,13,AFG,Afghanistan,1263,Afghanistan Humanitarian Needs and Response Plan 2025,HAFG25,1/1/2025,12/31/2025,2025,12.0,Protection - Child Protection,36171500.0,4851206.0,13.0
+9,14,AFG,Afghanistan,1263,Afghanistan Humanitarian Needs and Response Plan 2025,HAFG25,1/1/2025,12/31/2025,2025,13.0,Protection - Gender-Based Violence,48844027.0,27728725.0,57.0
+10,15,AFG,Afghanistan,1263,Afghanistan Humanitarian Needs and Response Plan 2025,HAFG25,1/1/2025,12/31/2025,2025,14.0,"Protection - Housing, Land and Property",4670313.0,944446.0,20.0
+11,16,AFG,Afghanistan,1263,Afghanistan Humanitarian Needs and Response Plan 2025,HAFG25,1/1/2025,12/31/2025,2025,15.0,Protection - Mine Action,21878008.0,12073102.0,55.0
+12,17,AFG,Afghanistan,1263,Afghanistan Humanitarian Needs and Response Plan 2025,HAFG25,1/1/2025,12/31/2025,2025,11.0,Water Sanitation Hygiene,264258056.0,49278905.0,19.0
+13,20,BFA,Burkina Faso,1259,Burkina Faso Besoins Humanitaires et Plan de Réponse 2025,HBFA25,1/1/2025,12/31/2025,2025,1.0,Camp Coordination and Camp Management,10665646.0,470179.0,4.0
+14,21,BFA,Burkina Faso,1259,Burkina Faso Besoins Humanitaires et Plan de Réponse 2025,HBFA25,1/1/2025,12/31/2025,2025,26480.0,Coordination and Support Services,10713909.0,5889532.0,55.0
+15,23,BFA,Burkina Faso,1259,Burkina Faso Besoins Humanitaires et Plan de Réponse 2025,HBFA25,1/1/2025,12/31/2025,2025,3.0,Education,43438810.0,11686875.0,27.0
+16,24,BFA,Burkina Faso,1259,Burkina Faso Besoins Humanitaires et Plan de Réponse 2025,HBFA25,1/1/2025,12/31/2025,2025,4.0,Emergency Shelter and NFI,48221795.0,9131977.0,19.0
+17,25,BFA,Burkina Faso,1259,Burkina Faso Besoins Humanitaires et Plan de Réponse 2025,HBFA25,1/1/2025,12/31/2025,2025,6.0,Food Security,273083657.0,105668280.0,39.0
+18,26,BFA,Burkina Faso,1259,Burkina Faso Besoins Humanitaires et Plan de Réponse 2025,HBFA25,1/1/2025,12/31/2025,2025,7.0,Health,53657000.0,25472945.0,47.0
+19,27,BFA,Burkina Faso,1259,Burkina Faso Besoins Humanitaires et Plan de Réponse 2025,HBFA25,1/1/2025,12/31/2025,2025,8.0,Logistics,39646249.0,13631321.0,34.0
+20,28,BFA,Burkina Faso,1259,Burkina Faso Besoins Humanitaires et Plan de Réponse 2025,HBFA25,1/1/2025,12/31/2025,2025,26479.0,Multi-sector,49630108.0,13627323.0,27.0
+21,29,BFA,Burkina Faso,1259,Burkina Faso Besoins Humanitaires et Plan de Réponse 2025,HBFA25,1/1/2025,12/31/2025,2025,9.0,Nutrition,53270240.0,10888278.0,20.0
+22,30,BFA,Burkina Faso,1259,Burkina Faso Besoins Humanitaires et Plan de Réponse 2025,HBFA25,1/1/2025,12/31/2025,2025,10.0,Protection,22397400.0,12257290.0,55.0
+23,31,BFA,Burkina Faso,1259,Burkina Faso Besoins Humanitaires et Plan de Réponse 2025,HBFA25,1/1/2025,12/31/2025,2025,12.0,Protection - Child Protection,53155235.0,5435690.0,10.0
+24,32,BFA,Burkina Faso,1259,Burkina Faso Besoins Humanitaires et Plan de Réponse 2025,HBFA25,1/1/2025,12/31/2025,2025,13.0,Protection - Gender-Based Violence,33962950.0,10210945.0,30.0
+25,33,BFA,Burkina Faso,1259,Burkina Faso Besoins Humanitaires et Plan de Réponse 2025,HBFA25,1/1/2025,12/31/2025,2025,14.0,"Protection - Housing, Land and Property",3171275.0,1765749.0,56.0
+26,34,BFA,Burkina Faso,1259,Burkina Faso Besoins Humanitaires et Plan de Réponse 2025,HBFA25,1/1/2025,12/31/2025,2025,15.0,Protection - Mine Action,2346786.0,0.0,0.0
+27,35,BFA,Burkina Faso,1259,Burkina Faso Besoins Humanitaires et Plan de Réponse 2025,HBFA25,1/1/2025,12/31/2025,2025,11.0,Water Sanitation Hygiene,95204176.0,7466558.0,8.0
+28,39,BGD,Bangladesh,1284,Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2025,OBGD25,1/1/2025,3/31/2025,2025,3.0,Education,1519169.0,7628.0,1.0
+29,40,BGD,Bangladesh,1284,Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2025,OBGD25,1/1/2025,3/31/2025,2025,4.0,Emergency Shelter and NFI,3560823.0,719234.0,20.0
+30,41,BGD,Bangladesh,1284,Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2025,OBGD25,1/1/2025,3/31/2025,2025,6.0,Food Security,18663581.0,492924.0,3.0
+31,42,BGD,Bangladesh,1284,Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2025,OBGD25,1/1/2025,3/31/2025,2025,7.0,Health,2258482.0,751800.0,33.0
+32,45,BGD,Bangladesh,1284,Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2025,OBGD25,1/1/2025,3/31/2025,2025,9.0,Nutrition,52500.0,4505762.0,8582.0
+33,48,BGD,Bangladesh,1284,Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2025,OBGD25,1/1/2025,3/31/2025,2025,11.0,Water Sanitation Hygiene,4985053.0,1468858.0,29.0
+34,53,BGD,Bangladesh,1212,Rohingya Humanitarian Crisis Joint Response Plan 2025,RBGD25,1/1/2025,12/31/2025,2025,26480.0,Coordination and Support Services,9179739.0,6116207.0,67.0
+35,54,BGD,Bangladesh,1212,Rohingya Humanitarian Crisis Joint Response Plan 2025,RBGD25,1/1/2025,12/31/2025,2025,2.0,Early Recovery,41970058.0,20029029.0,48.0
+36,55,BGD,Bangladesh,1212,Rohingya Humanitarian Crisis Joint Response Plan 2025,RBGD25,1/1/2025,12/31/2025,2025,3.0,Education,71517783.0,16389885.0,23.0
+37,56,BGD,Bangladesh,1212,Rohingya Humanitarian Crisis Joint Response Plan 2025,RBGD25,1/1/2025,12/31/2025,2025,4.0,Emergency Shelter and NFI,176808846.0,32117070.0,18.0
+38,57,BGD,Bangladesh,1212,Rohingya Humanitarian Crisis Joint Response Plan 2025,RBGD25,1/1/2025,12/31/2025,2025,6.0,Food Security,287082160.0,221065991.0,77.0
+39,58,BGD,Bangladesh,1212,Rohingya Humanitarian Crisis Joint Response Plan 2025,RBGD25,1/1/2025,12/31/2025,2025,7.0,Health,92336431.0,36132412.0,39.0
+40,59,BGD,Bangladesh,1212,Rohingya Humanitarian Crisis Joint Response Plan 2025,RBGD25,1/1/2025,12/31/2025,2025,26479.0,Multi-sector,46540946.0,28570434.0,61.0
+41,61,BGD,Bangladesh,1212,Rohingya Humanitarian Crisis Joint Response Plan 2025,RBGD25,1/1/2025,12/31/2025,2025,9.0,Nutrition,44927256.0,24783347.0,55.0
+42,63,BGD,Bangladesh,1212,Rohingya Humanitarian Crisis Joint Response Plan 2025,RBGD25,1/1/2025,12/31/2025,2025,10.0,Protection,38318765.0,19292536.0,50.0
+43,64,BGD,Bangladesh,1212,Rohingya Humanitarian Crisis Joint Response Plan 2025,RBGD25,1/1/2025,12/31/2025,2025,12.0,Protection - Child Protection,25036533.0,5505982.0,22.0
+44,65,BGD,Bangladesh,1212,Rohingya Humanitarian Crisis Joint Response Plan 2025,RBGD25,1/1/2025,12/31/2025,2025,13.0,Protection - Gender-Based Violence,27439885.0,4116609.0,15.0
+45,66,BGD,Bangladesh,1212,Rohingya Humanitarian Crisis Joint Response Plan 2025,RBGD25,1/1/2025,12/31/2025,2025,11.0,Water Sanitation Hygiene,73362615.0,23509047.0,32.0
+46,70,CAF,Central African Republic,1256,République Centrafricaine Besoins Humanitaires et Plan de Réponse 2025,HCAF25,1/1/2025,12/31/2025,2025,26480.0,Coordination and Support Services,13461542.0,5616010.0,42.0
+47,72,CAF,Central African Republic,1256,République Centrafricaine Besoins Humanitaires et Plan de Réponse 2025,HCAF25,1/1/2025,12/31/2025,2025,3.0,Education,20021799.0,7662022.0,38.0
+48,73,CAF,Central African Republic,1256,République Centrafricaine Besoins Humanitaires et Plan de Réponse 2025,HCAF25,1/1/2025,12/31/2025,2025,4.0,Emergency Shelter and NFI,27021164.0,2693239.0,10.0
+49,74,CAF,Central African Republic,1256,République Centrafricaine Besoins Humanitaires et Plan de Réponse 2025,HCAF25,1/1/2025,12/31/2025,2025,6.0,Food Security,111038729.0,25782397.0,23.0
+50,75,CAF,Central African Republic,1256,République Centrafricaine Besoins Humanitaires et Plan de Réponse 2025,HCAF25,1/1/2025,12/31/2025,2025,7.0,Health,26373564.0,13886114.0,53.0
+51,76,CAF,Central African Republic,1256,République Centrafricaine Besoins Humanitaires et Plan de Réponse 2025,HCAF25,1/1/2025,12/31/2025,2025,8.0,Logistics,20309000.0,4470918.0,22.0
+52,77,CAF,Central African Republic,1256,République Centrafricaine Besoins Humanitaires et Plan de Réponse 2025,HCAF25,1/1/2025,12/31/2025,2025,26479.0,Multi-sector,29354377.0,5747141.0,20.0
+53,78,CAF,Central African Republic,1256,République Centrafricaine Besoins Humanitaires et Plan de Réponse 2025,HCAF25,1/1/2025,12/31/2025,2025,16.0,Multipurpose Cash,946466.0,31000.0,3.0
+54,79,CAF,Central African Republic,1256,République Centrafricaine Besoins Humanitaires et Plan de Réponse 2025,HCAF25,1/1/2025,12/31/2025,2025,9.0,Nutrition,20538973.0,3189031.0,16.0
+55,81,CAF,Central African Republic,1256,République Centrafricaine Besoins Humanitaires et Plan de Réponse 2025,HCAF25,1/1/2025,12/31/2025,2025,10.0,Protection,10736513.0,6426076.0,60.0
+56,82,CAF,Central African Republic,1256,République Centrafricaine Besoins Humanitaires et Plan de Réponse 2025,HCAF25,1/1/2025,12/31/2025,2025,12.0,Protection - Child Protection,7473582.0,19256.0,0.0
+57,83,CAF,Central African Republic,1256,République Centrafricaine Besoins Humanitaires et Plan de Réponse 2025,HCAF25,1/1/2025,12/31/2025,2025,13.0,Protection - Gender-Based Violence,9855993.0,7528204.0,76.0
+58,85,CAF,Central African Republic,1256,République Centrafricaine Besoins Humanitaires et Plan de Réponse 2025,HCAF25,1/1/2025,12/31/2025,2025,11.0,Water Sanitation Hygiene,21689036.0,8672129.0,40.0
+59,88,CMR,Cameroon,1266,Cameroon Humanitarian Response Plan 2025,HCMR25,1/1/2025,12/31/2025,2025,26480.0,Coordination and Support Services,14048886.0,8963627.0,64.0
+60,89,CMR,Cameroon,1266,Cameroon Humanitarian Response Plan 2025,HCMR25,1/1/2025,12/31/2025,2025,3.0,Education,20470965.0,1227321.0,6.0
+61,90,CMR,Cameroon,1266,Cameroon Humanitarian Response Plan 2025,HCMR25,1/1/2025,12/31/2025,2025,4.0,Emergency Shelter and NFI,22124343.0,2403560.0,11.0
+62,91,CMR,Cameroon,1266,Cameroon Humanitarian Response Plan 2025,HCMR25,1/1/2025,12/31/2025,2025,6.0,Food Security,92803509.0,19363514.0,21.0
+63,92,CMR,Cameroon,1266,Cameroon Humanitarian Response Plan 2025,HCMR25,1/1/2025,12/31/2025,2025,7.0,Health,27716414.0,7718037.0,28.0
+64,93,CMR,Cameroon,1266,Cameroon Humanitarian Response Plan 2025,HCMR25,1/1/2025,12/31/2025,2025,26479.0,Multi-sector,89889762.0,9756056.0,11.0
+65,94,CMR,Cameroon,1266,Cameroon Humanitarian Response Plan 2025,HCMR25,1/1/2025,12/31/2025,2025,16.0,Multipurpose Cash,3984186.0,1692395.0,42.0
+66,95,CMR,Cameroon,1266,Cameroon Humanitarian Response Plan 2025,HCMR25,1/1/2025,12/31/2025,2025,9.0,Nutrition,28062243.0,6133629.0,22.0
+67,97,CMR,Cameroon,1266,Cameroon Humanitarian Response Plan 2025,HCMR25,1/1/2025,12/31/2025,2025,10.0,Protection,7224377.0,3409095.0,47.0
+68,98,CMR,Cameroon,1266,Cameroon Humanitarian Response Plan 2025,HCMR25,1/1/2025,12/31/2025,2025,12.0,Protection - Child Protection,13818311.0,2149840.0,16.0
+69,99,CMR,Cameroon,1266,Cameroon Humanitarian Response Plan 2025,HCMR25,1/1/2025,12/31/2025,2025,13.0,Protection - Gender-Based Violence,21463852.0,9953647.0,46.0
+70,100,CMR,Cameroon,1266,Cameroon Humanitarian Response Plan 2025,HCMR25,1/1/2025,12/31/2025,2025,14.0,"Protection - Housing, Land and Property",1509867.0,181900.0,12.0
+71,101,CMR,Cameroon,1266,Cameroon Humanitarian Response Plan 2025,HCMR25,1/1/2025,12/31/2025,2025,11.0,Water Sanitation Hygiene,16181609.0,832450.0,5.0
+72,104,COD,Democratic Republic of the Congo,1261,République Démocratique du Congo Besoins Humanitaires et Plan de Réponse 2025,HCOD25,1/1/2025,12/31/2025,2025,1.0,Camp Coordination and Camp Management,37102195.0,100000.0,0.0
+73,105,COD,Democratic Republic of the Congo,1261,République Démocratique du Congo Besoins Humanitaires et Plan de Réponse 2025,HCOD25,1/1/2025,12/31/2025,2025,26480.0,Coordination and Support Services,46948303.0,20181382.0,43.0
+74,106,COD,Democratic Republic of the Congo,1261,République Démocratique du Congo Besoins Humanitaires et Plan de Réponse 2025,HCOD25,1/1/2025,12/31/2025,2025,3.0,Education,66039741.0,9833896.0,15.0
+75,107,COD,Democratic Republic of the Congo,1261,République Démocratique du Congo Besoins Humanitaires et Plan de Réponse 2025,HCOD25,1/1/2025,12/31/2025,2025,4.0,Emergency Shelter and NFI,133407721.0,26707155.0,20.0
+76,108,COD,Democratic Republic of the Congo,1261,République Démocratique du Congo Besoins Humanitaires et Plan de Réponse 2025,HCOD25,1/1/2025,12/31/2025,2025,6.0,Food Security,1114773750.0,103031496.0,9.0
+77,109,COD,Democratic Republic of the Congo,1261,République Démocratique du Congo Besoins Humanitaires et Plan de Réponse 2025,HCOD25,1/1/2025,12/31/2025,2025,7.0,Health,200240191.0,69076194.0,34.0
+78,110,COD,Democratic Republic of the Congo,1261,République Démocratique du Congo Besoins Humanitaires et Plan de Réponse 2025,HCOD25,1/1/2025,12/31/2025,2025,8.0,Logistics,48840000.0,26807352.0,55.0
+79,111,COD,Democratic Republic of the Congo,1261,République Démocratique du Congo Besoins Humanitaires et Plan de Réponse 2025,HCOD25,1/1/2025,12/31/2025,2025,26479.0,Multi-sector,195000000.0,70220987.0,36.0
+80,112,COD,Democratic Republic of the Congo,1261,République Démocratique du Congo Besoins Humanitaires et Plan de Réponse 2025,HCOD25,1/1/2025,12/31/2025,2025,16.0,Multipurpose Cash,94186878.0,47891110.0,51.0
+81,113,COD,Democratic Republic of the Congo,1261,République Démocratique du Congo Besoins Humanitaires et Plan de Réponse 2025,HCOD25,1/1/2025,12/31/2025,2025,9.0,Nutrition,275182726.0,83028642.0,30.0
+82,115,COD,Democratic Republic of the Congo,1261,République Démocratique du Congo Besoins Humanitaires et Plan de Réponse 2025,HCOD25,1/1/2025,12/31/2025,2025,10.0,Protection,42427721.0,31274130.0,74.0
+83,116,COD,Democratic Republic of the Congo,1261,République Démocratique du Congo Besoins Humanitaires et Plan de Réponse 2025,HCOD25,1/1/2025,12/31/2025,2025,12.0,Protection - Child Protection,73949432.0,22636929.0,31.0
+84,117,COD,Democratic Republic of the Congo,1261,République Démocratique du Congo Besoins Humanitaires et Plan de Réponse 2025,HCOD25,1/1/2025,12/31/2025,2025,13.0,Protection - Gender-Based Violence,45028690.0,18458765.0,41.0
+85,118,COD,Democratic Republic of the Congo,1261,République Démocratique du Congo Besoins Humanitaires et Plan de Réponse 2025,HCOD25,1/1/2025,12/31/2025,2025,14.0,"Protection - Housing, Land and Property",12475469.0,512500.0,4.0
+86,119,COD,Democratic Republic of the Congo,1261,République Démocratique du Congo Besoins Humanitaires et Plan de Réponse 2025,HCOD25,1/1/2025,12/31/2025,2025,15.0,Protection - Mine Action,3477808.0,0.0,0.0
+87,120,COD,Democratic Republic of the Congo,1261,République Démocratique du Congo Besoins Humanitaires et Plan de Réponse 2025,HCOD25,1/1/2025,12/31/2025,2025,11.0,Water Sanitation Hygiene,148935526.0,24763622.0,17.0
+88,123,COL,Colombia,1208,Colombia Necesidades Humanitarias y Plan de Respuesta 2025,HCOL25,1/1/2025,12/31/2025,2025,26480.0,Coordination and Support Services,10130883.0,3234199.0,32.0
+89,124,COL,Colombia,1208,Colombia Necesidades Humanitarias y Plan de Respuesta 2025,HCOL25,1/1/2025,12/31/2025,2025,2.0,Early Recovery,28606306.0,168415.0,1.0
+90,125,COL,Colombia,1208,Colombia Necesidades Humanitarias y Plan de Respuesta 2025,HCOL25,1/1/2025,12/31/2025,2025,3.0,Education,22372677.0,4275860.0,19.0
+91,126,COL,Colombia,1208,Colombia Necesidades Humanitarias y Plan de Respuesta 2025,HCOL25,1/1/2025,12/31/2025,2025,4.0,Emergency Shelter and NFI,8857216.0,2438648.0,28.0
+92,127,COL,Colombia,1208,Colombia Necesidades Humanitarias y Plan de Respuesta 2025,HCOL25,1/1/2025,12/31/2025,2025,6.0,Food Security,82670606.0,20629688.0,25.0
+93,128,COL,Colombia,1208,Colombia Necesidades Humanitarias y Plan de Respuesta 2025,HCOL25,1/1/2025,12/31/2025,2025,7.0,Health,40182490.0,11683250.0,29.0
+94,129,COL,Colombia,1208,Colombia Necesidades Humanitarias y Plan de Respuesta 2025,HCOL25,1/1/2025,12/31/2025,2025,16.0,Multipurpose Cash,10200224.0,1842494.0,18.0
+95,131,COL,Colombia,1208,Colombia Necesidades Humanitarias y Plan de Respuesta 2025,HCOL25,1/1/2025,12/31/2025,2025,10.0,Protection,44764548.0,13347444.0,30.0
+96,132,COL,Colombia,1208,Colombia Necesidades Humanitarias y Plan de Respuesta 2025,HCOL25,1/1/2025,12/31/2025,2025,12.0,Protection - Child Protection,17037391.0,2282880.0,13.0
+97,133,COL,Colombia,1208,Colombia Necesidades Humanitarias y Plan de Respuesta 2025,HCOL25,1/1/2025,12/31/2025,2025,13.0,Protection - Gender-Based Violence,15895901.0,2803840.0,18.0
+98,134,COL,Colombia,1208,Colombia Necesidades Humanitarias y Plan de Respuesta 2025,HCOL25,1/1/2025,12/31/2025,2025,15.0,Protection - Mine Action,37795517.0,9733799.0,26.0
+99,135,COL,Colombia,1208,Colombia Necesidades Humanitarias y Plan de Respuesta 2025,HCOL25,1/1/2025,12/31/2025,2025,11.0,Water Sanitation Hygiene,23794584.0,2937629.0,12.0
+100,138,GTM,Guatemala,1269,Guatemala Necesidades Humanitarias y Plan de Respuesta 2025,HGTM25,1/1/2025,12/31/2025,2025,1.0,Camp Coordination and Camp Management,8070897.0,446171.0,6.0
+101,140,GTM,Guatemala,1269,Guatemala Necesidades Humanitarias y Plan de Respuesta 2025,HGTM25,1/1/2025,12/31/2025,2025,3.0,Education,4861112.0,629420.0,13.0
+102,141,GTM,Guatemala,1269,Guatemala Necesidades Humanitarias y Plan de Respuesta 2025,HGTM25,1/1/2025,12/31/2025,2025,6.0,Food Security,19879307.0,10099320.0,51.0
+103,142,GTM,Guatemala,1269,Guatemala Necesidades Humanitarias y Plan de Respuesta 2025,HGTM25,1/1/2025,12/31/2025,2025,7.0,Health,2500000.0,582567.0,23.0
+104,143,GTM,Guatemala,1269,Guatemala Necesidades Humanitarias y Plan de Respuesta 2025,HGTM25,1/1/2025,12/31/2025,2025,9.0,Nutrition,7910588.0,400000.0,5.0
+105,145,GTM,Guatemala,1269,Guatemala Necesidades Humanitarias y Plan de Respuesta 2025,HGTM25,1/1/2025,12/31/2025,2025,10.0,Protection,34800196.0,6932379.0,20.0
+106,146,GTM,Guatemala,1269,Guatemala Necesidades Humanitarias y Plan de Respuesta 2025,HGTM25,1/1/2025,12/31/2025,2025,12.0,Protection - Child Protection,10414254.0,3318120.0,32.0
+107,147,GTM,Guatemala,1269,Guatemala Necesidades Humanitarias y Plan de Respuesta 2025,HGTM25,1/1/2025,12/31/2025,2025,13.0,Protection - Gender-Based Violence,4000000.0,81627.0,2.0
+108,148,GTM,Guatemala,1269,Guatemala Necesidades Humanitarias y Plan de Respuesta 2025,HGTM25,1/1/2025,12/31/2025,2025,11.0,Water Sanitation Hygiene,7777042.0,400000.0,5.0
+109,151,HND,Honduras,1270,Honduras Necesidades Humanitarias y Plan de Respuesta 2025,HHND25,1/1/2025,12/31/2025,2025,1.0,Camp Coordination and Camp Management,8000000.0,1396000.0,17.0
+110,153,HND,Honduras,1270,Honduras Necesidades Humanitarias y Plan de Respuesta 2025,HHND25,1/1/2025,12/31/2025,2025,3.0,Education,6200000.0,1495140.0,24.0
+111,154,HND,Honduras,1270,Honduras Necesidades Humanitarias y Plan de Respuesta 2025,HHND25,1/1/2025,12/31/2025,2025,6.0,Food Security,42845202.0,3364878.0,8.0
+112,155,HND,Honduras,1270,Honduras Necesidades Humanitarias y Plan de Respuesta 2025,HHND25,1/1/2025,12/31/2025,2025,7.0,Health,3500000.0,709115.0,20.0
+113,156,HND,Honduras,1270,Honduras Necesidades Humanitarias y Plan de Respuesta 2025,HHND25,1/1/2025,12/31/2025,2025,9.0,Nutrition,11400000.0,0.0,0.0
+114,158,HND,Honduras,1270,Honduras Necesidades Humanitarias y Plan de Respuesta 2025,HHND25,1/1/2025,12/31/2025,2025,10.0,Protection,20304312.0,5858287.0,29.0
+115,159,HND,Honduras,1270,Honduras Necesidades Humanitarias y Plan de Respuesta 2025,HHND25,1/1/2025,12/31/2025,2025,12.0,Protection - Child Protection,11800000.0,697355.0,6.0
+116,160,HND,Honduras,1270,Honduras Necesidades Humanitarias y Plan de Respuesta 2025,HHND25,1/1/2025,12/31/2025,2025,13.0,Protection - Gender-Based Violence,9291858.0,33573.0,0.0
+117,161,HND,Honduras,1270,Honduras Necesidades Humanitarias y Plan de Respuesta 2025,HHND25,1/1/2025,12/31/2025,2025,11.0,Water Sanitation Hygiene,24800000.0,0.0,0.0
+118,164,HTI,Haiti,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,1/1/2025,12/31/2025,2025,1.0,Camp Coordination and Camp Management,12300000.0,3793829.0,31.0
+119,165,HTI,Haiti,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,1/1/2025,12/31/2025,2025,26480.0,Coordination and Support Services,8293000.0,9387345.0,113.0
+120,166,HTI,Haiti,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,1/1/2025,12/31/2025,2025,3.0,Education,61626718.0,16115207.0,26.0
+121,167,HTI,Haiti,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,1/1/2025,12/31/2025,2025,4.0,Emergency Shelter and NFI,78000000.0,13431977.0,17.0
+122,168,HTI,Haiti,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,1/1/2025,12/31/2025,2025,6.0,Food Security,425000000.0,85036003.0,20.0
+123,169,HTI,Haiti,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,1/1/2025,12/31/2025,2025,7.0,Health,43500000.0,14188291.0,33.0
+124,170,HTI,Haiti,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,1/1/2025,12/31/2025,2025,8.0,Logistics,19800000.0,18114099.0,91.0
+125,171,HTI,Haiti,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,1/1/2025,12/31/2025,2025,16.0,Multipurpose Cash,26600000.0,5562935.0,21.0
+126,172,HTI,Haiti,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,1/1/2025,12/31/2025,2025,9.0,Nutrition,39900000.0,6353682.0,16.0
+127,173,HTI,Haiti,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,1/1/2025,12/31/2025,2025,10.0,Protection,7200000.0,5599595.0,78.0
+128,174,HTI,Haiti,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,1/1/2025,12/31/2025,2025,12.0,Protection - Child Protection,44540271.0,4941399.0,11.0
+129,175,HTI,Haiti,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,1/1/2025,12/31/2025,2025,13.0,Protection - Gender-Based Violence,19200000.0,3519751.0,18.0
+130,176,HTI,Haiti,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,1/1/2025,12/31/2025,2025,26546.0,Protection - Human Trafficking and Smuggling,35200000.0,7273783.0,21.0
+131,177,HTI,Haiti,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,1/1/2025,12/31/2025,2025,11.0,Water Sanitation Hygiene,87000000.0,13689677.0,16.0
+132,181,LBN,Lebanon,1286,Lebanon Flash Appeal 2025,FLBN25,1/1/2025,3/31/2025,2025,26480.0,Coordination and Support Services,1250000.0,4622876.0,370.0
+133,183,LBN,Lebanon,1286,Lebanon Flash Appeal 2025,FLBN25,1/1/2025,3/31/2025,2025,3.0,Education,13900000.0,19013579.0,137.0
+134,184,LBN,Lebanon,1286,Lebanon Flash Appeal 2025,FLBN25,1/1/2025,3/31/2025,2025,4.0,Emergency Shelter and NFI,39325000.0,1989639.0,5.0
+135,185,LBN,Lebanon,1286,Lebanon Flash Appeal 2025,FLBN25,1/1/2025,3/31/2025,2025,6.0,Food Security,112000000.0,35145613.0,31.0
+136,186,LBN,Lebanon,1286,Lebanon Flash Appeal 2025,FLBN25,1/1/2025,3/31/2025,2025,7.0,Health,46500000.0,75468519.0,162.0
+137,187,LBN,Lebanon,1286,Lebanon Flash Appeal 2025,FLBN25,1/1/2025,3/31/2025,2025,8.0,Logistics,4700000.0,132017.0,3.0
+138,188,LBN,Lebanon,1286,Lebanon Flash Appeal 2025,FLBN25,1/1/2025,3/31/2025,2025,26479.0,Multi-sector,40000000.0,32938190.0,82.0
+139,189,LBN,Lebanon,1286,Lebanon Flash Appeal 2025,FLBN25,1/1/2025,3/31/2025,2025,9.0,Nutrition,6800000.0,4512026.0,66.0
+140,190,LBN,Lebanon,1286,Lebanon Flash Appeal 2025,FLBN25,1/1/2025,3/31/2025,2025,26481.0,Other,14500000.0,867328.0,6.0
+141,191,LBN,Lebanon,1286,Lebanon Flash Appeal 2025,FLBN25,1/1/2025,3/31/2025,2025,10.0,Protection,10000000.0,10162862.0,102.0
+142,192,LBN,Lebanon,1286,Lebanon Flash Appeal 2025,FLBN25,1/1/2025,3/31/2025,2025,12.0,Protection - Child Protection,9500000.0,8748579.0,92.0
+143,193,LBN,Lebanon,1286,Lebanon Flash Appeal 2025,FLBN25,1/1/2025,3/31/2025,2025,13.0,Protection - Gender-Based Violence,7500000.0,1228832.0,16.0
+144,194,LBN,Lebanon,1286,Lebanon Flash Appeal 2025,FLBN25,1/1/2025,3/31/2025,2025,11.0,Water Sanitation Hygiene,60000000.0,24359323.0,41.0
+145,198,MLI,Mali,1222,Mali Besoins Humanitaires et Plan de Réponse 2025,HMLI25,1/1/2025,12/31/2025,2025,26480.0,Coordination and Support Services,28159452.0,11661871.0,41.0
+146,200,MLI,Mali,1222,Mali Besoins Humanitaires et Plan de Réponse 2025,HMLI25,1/1/2025,12/31/2025,2025,3.0,Education,70225246.0,9631505.0,14.0
+147,201,MLI,Mali,1222,Mali Besoins Humanitaires et Plan de Réponse 2025,HMLI25,1/1/2025,12/31/2025,2025,4.0,Emergency Shelter and NFI,51742608.0,10323451.0,20.0
+148,202,MLI,Mali,1222,Mali Besoins Humanitaires et Plan de Réponse 2025,HMLI25,1/1/2025,12/31/2025,2025,6.0,Food Security,254896049.0,40626082.0,16.0
+149,203,MLI,Mali,1222,Mali Besoins Humanitaires et Plan de Réponse 2025,HMLI25,1/1/2025,12/31/2025,2025,7.0,Health,43383076.0,14796751.0,34.0
+150,205,MLI,Mali,1222,Mali Besoins Humanitaires et Plan de Réponse 2025,HMLI25,1/1/2025,12/31/2025,2025,26479.0,Multi-sector,62224761.0,12213359.0,20.0
+151,206,MLI,Mali,1222,Mali Besoins Humanitaires et Plan de Réponse 2025,HMLI25,1/1/2025,12/31/2025,2025,16.0,Multipurpose Cash,44055606.0,131458.0,0.0
+152,207,MLI,Mali,1222,Mali Besoins Humanitaires et Plan de Réponse 2025,HMLI25,1/1/2025,12/31/2025,2025,9.0,Nutrition,71484184.0,17335566.0,24.0
+153,209,MLI,Mali,1222,Mali Besoins Humanitaires et Plan de Réponse 2025,HMLI25,1/1/2025,12/31/2025,2025,10.0,Protection,21891579.0,7751460.0,35.0
+154,210,MLI,Mali,1222,Mali Besoins Humanitaires et Plan de Réponse 2025,HMLI25,1/1/2025,12/31/2025,2025,12.0,Protection - Child Protection,31268859.0,6251389.0,20.0
+155,211,MLI,Mali,1222,Mali Besoins Humanitaires et Plan de Réponse 2025,HMLI25,1/1/2025,12/31/2025,2025,13.0,Protection - Gender-Based Violence,34293212.0,5213711.0,15.0
+156,212,MLI,Mali,1222,Mali Besoins Humanitaires et Plan de Réponse 2025,HMLI25,1/1/2025,12/31/2025,2025,14.0,"Protection - Housing, Land and Property",7501077.0,0.0,0.0
+157,213,MLI,Mali,1222,Mali Besoins Humanitaires et Plan de Réponse 2025,HMLI25,1/1/2025,12/31/2025,2025,15.0,Protection - Mine Action,7255726.0,1657981.0,23.0
+158,214,MLI,Mali,1222,Mali Besoins Humanitaires et Plan de Réponse 2025,HMLI25,1/1/2025,12/31/2025,2025,11.0,Water Sanitation Hygiene,42932880.0,4383703.0,10.0
+159,217,MMR,Myanmar,1275,Myanmar Original Humanitarian Needs and Response Plan 2025,HMMR25b,1/1/2025,12/31/2025,2025,26480.0,Coordination and Support Services,9000000.0,2379540.0,26.0
+160,219,MMR,Myanmar,1275,Myanmar Original Humanitarian Needs and Response Plan 2025,HMMR25b,1/1/2025,12/31/2025,2025,3.0,Education,95600000.0,6169980.0,6.0
+161,220,MMR,Myanmar,1275,Myanmar Original Humanitarian Needs and Response Plan 2025,HMMR25b,1/1/2025,12/31/2025,2025,4.0,Emergency Shelter and NFI,189881690.0,11346096.0,6.0
+162,221,MMR,Myanmar,1275,Myanmar Original Humanitarian Needs and Response Plan 2025,HMMR25b,1/1/2025,12/31/2025,2025,6.0,Food Security,263426146.0,36465007.0,14.0
+163,222,MMR,Myanmar,1275,Myanmar Original Humanitarian Needs and Response Plan 2025,HMMR25b,1/1/2025,12/31/2025,2025,7.0,Health,123028001.0,36064454.0,29.0
+164,224,MMR,Myanmar,1275,Myanmar Original Humanitarian Needs and Response Plan 2025,HMMR25b,1/1/2025,12/31/2025,2025,16.0,Multipurpose Cash,75483470.0,5682080.0,8.0
+165,225,MMR,Myanmar,1275,Myanmar Original Humanitarian Needs and Response Plan 2025,HMMR25b,1/1/2025,12/31/2025,2025,9.0,Nutrition,64396671.0,2627626.0,4.0
+166,227,MMR,Myanmar,1275,Myanmar Original Humanitarian Needs and Response Plan 2025,HMMR25b,1/1/2025,12/31/2025,2025,10.0,Protection,83584297.0,15872114.0,19.0
+167,228,MMR,Myanmar,1275,Myanmar Original Humanitarian Needs and Response Plan 2025,HMMR25b,1/1/2025,12/31/2025,2025,12.0,Protection - Child Protection,35572933.0,5851757.0,16.0
+168,229,MMR,Myanmar,1275,Myanmar Original Humanitarian Needs and Response Plan 2025,HMMR25b,1/1/2025,12/31/2025,2025,13.0,Protection - Gender-Based Violence,35219844.0,4809495.0,14.0
+169,230,MMR,Myanmar,1275,Myanmar Original Humanitarian Needs and Response Plan 2025,HMMR25b,1/1/2025,12/31/2025,2025,15.0,Protection - Mine Action,14026418.0,680003.0,5.0
+170,231,MMR,Myanmar,1275,Myanmar Original Humanitarian Needs and Response Plan 2025,HMMR25b,1/1/2025,12/31/2025,2025,11.0,Water Sanitation Hygiene,148592099.0,10259884.0,7.0
+171,234,MMR,Myanmar,1399,Myanmar Earthquake HNRP Flash Addendum 2025,HMMR25a,4/1/2025,12/31/2025,2025,26480.0,Coordination and Support Services,2600000.0,3380135.0,130.0
+172,235,MMR,Myanmar,1399,Myanmar Earthquake HNRP Flash Addendum 2025,HMMR25a,4/1/2025,12/31/2025,2025,2.0,Early Recovery,33600000.0,974274.0,3.0
+173,236,MMR,Myanmar,1399,Myanmar Earthquake HNRP Flash Addendum 2025,HMMR25a,4/1/2025,12/31/2025,2025,3.0,Education,7849735.0,12882244.0,164.0
+174,237,MMR,Myanmar,1399,Myanmar Earthquake HNRP Flash Addendum 2025,HMMR25a,4/1/2025,12/31/2025,2025,4.0,Emergency Shelter and NFI,59419546.0,15744428.0,26.0
+175,238,MMR,Myanmar,1399,Myanmar Earthquake HNRP Flash Addendum 2025,HMMR25a,4/1/2025,12/31/2025,2025,6.0,Food Security,43000000.0,44940576.0,105.0
+176,239,MMR,Myanmar,1399,Myanmar Earthquake HNRP Flash Addendum 2025,HMMR25a,4/1/2025,12/31/2025,2025,7.0,Health,22985547.0,21262135.0,93.0
+177,240,MMR,Myanmar,1399,Myanmar Earthquake HNRP Flash Addendum 2025,HMMR25a,4/1/2025,12/31/2025,2025,8.0,Logistics,2700000.0,510804.0,19.0
+178,242,MMR,Myanmar,1399,Myanmar Earthquake HNRP Flash Addendum 2025,HMMR25a,4/1/2025,12/31/2025,2025,16.0,Multipurpose Cash,27129412.0,13670730.0,50.0
+179,243,MMR,Myanmar,1399,Myanmar Earthquake HNRP Flash Addendum 2025,HMMR25a,4/1/2025,12/31/2025,2025,9.0,Nutrition,3618897.0,8644840.0,239.0
+180,245,MMR,Myanmar,1399,Myanmar Earthquake HNRP Flash Addendum 2025,HMMR25a,4/1/2025,12/31/2025,2025,10.0,Protection,7225694.0,9405775.0,130.0
+181,246,MMR,Myanmar,1399,Myanmar Earthquake HNRP Flash Addendum 2025,HMMR25a,4/1/2025,12/31/2025,2025,12.0,Protection - Child Protection,2868115.0,8515171.0,297.0
+182,247,MMR,Myanmar,1399,Myanmar Earthquake HNRP Flash Addendum 2025,HMMR25a,4/1/2025,12/31/2025,2025,13.0,Protection - Gender-Based Violence,3102627.0,2177424.0,70.0
+183,248,MMR,Myanmar,1399,Myanmar Earthquake HNRP Flash Addendum 2025,HMMR25a,4/1/2025,12/31/2025,2025,15.0,Protection - Mine Action,3754785.0,1032847.0,28.0
+184,249,MMR,Myanmar,1399,Myanmar Earthquake HNRP Flash Addendum 2025,HMMR25a,4/1/2025,12/31/2025,2025,11.0,Water Sanitation Hygiene,55295676.0,26940206.0,49.0
+185,252,MOZ,Mozambique,1285,Mozambique Drought Flash Appeal 2025,FMOZ25,1/1/2025,7/31/2025,2025,6.0,Food Security,119390702.0,5755000.0,5.0
+186,253,MOZ,Mozambique,1285,Mozambique Drought Flash Appeal 2025,FMOZ25,1/1/2025,7/31/2025,2025,9.0,Nutrition,4291569.0,788254.0,18.0
+187,254,MOZ,Mozambique,1285,Mozambique Drought Flash Appeal 2025,FMOZ25,1/1/2025,7/31/2025,2025,10.0,Protection,1283158.0,500000.0,39.0
+188,255,MOZ,Mozambique,1285,Mozambique Drought Flash Appeal 2025,FMOZ25,1/1/2025,7/31/2025,2025,12.0,Protection - Child Protection,540000.0,250041.0,46.0
+189,258,MOZ,Mozambique,1285,Mozambique Drought Flash Appeal 2025,FMOZ25,1/1/2025,7/31/2025,2025,11.0,Water Sanitation Hygiene,6498063.0,2200040.0,34.0
+190,261,MOZ,Mozambique,1364,Mozambique Tropical Cyclones Flash Appeal 2025,FMOZ25a,1/1/2025,6/30/2025,2025,1.0,Camp Coordination and Camp Management,11000000.0,350004.0,3.0
+191,262,MOZ,Mozambique,1364,Mozambique Tropical Cyclones Flash Appeal 2025,FMOZ25a,1/1/2025,6/30/2025,2025,3.0,Education,18874102.0,779495.0,4.0
+192,263,MOZ,Mozambique,1364,Mozambique Tropical Cyclones Flash Appeal 2025,FMOZ25a,1/1/2025,6/30/2025,2025,4.0,Emergency Shelter and NFI,32424458.0,1402458.0,4.0
+193,264,MOZ,Mozambique,1364,Mozambique Tropical Cyclones Flash Appeal 2025,FMOZ25a,1/1/2025,6/30/2025,2025,6.0,Food Security,54961652.0,12320069.0,22.0
+194,265,MOZ,Mozambique,1364,Mozambique Tropical Cyclones Flash Appeal 2025,FMOZ25a,1/1/2025,6/30/2025,2025,7.0,Health,20868098.0,1554210.0,7.0
+195,266,MOZ,Mozambique,1364,Mozambique Tropical Cyclones Flash Appeal 2025,FMOZ25a,1/1/2025,6/30/2025,2025,8.0,Logistics,550000.0,20666.0,4.0
+196,267,MOZ,Mozambique,1364,Mozambique Tropical Cyclones Flash Appeal 2025,FMOZ25a,1/1/2025,6/30/2025,2025,9.0,Nutrition,4343457.0,1744536.0,40.0
+197,268,MOZ,Mozambique,1364,Mozambique Tropical Cyclones Flash Appeal 2025,FMOZ25a,1/1/2025,6/30/2025,2025,10.0,Protection,4055481.0,234960.0,6.0
+198,269,MOZ,Mozambique,1364,Mozambique Tropical Cyclones Flash Appeal 2025,FMOZ25a,1/1/2025,6/30/2025,2025,12.0,Protection - Child Protection,7424198.0,1051787.0,14.0
+199,270,MOZ,Mozambique,1364,Mozambique Tropical Cyclones Flash Appeal 2025,FMOZ25a,1/1/2025,6/30/2025,2025,13.0,Protection - Gender-Based Violence,9578453.0,499540.0,5.0
+200,272,MOZ,Mozambique,1364,Mozambique Tropical Cyclones Flash Appeal 2025,FMOZ25a,1/1/2025,6/30/2025,2025,11.0,Water Sanitation Hygiene,33093637.0,5011989.0,15.0
+201,276,MOZ,Mozambique,1267,Mozambique Humanitarian Needs and Response Plan 2025,HMOZ25,1/1/2025,12/31/2025,2025,1.0,Camp Coordination and Camp Management,7500000.0,1734278.0,23.0
+202,277,MOZ,Mozambique,1267,Mozambique Humanitarian Needs and Response Plan 2025,HMOZ25,1/1/2025,12/31/2025,2025,26480.0,Coordination and Support Services,17110036.0,5316693.0,31.0
+203,278,MOZ,Mozambique,1267,Mozambique Humanitarian Needs and Response Plan 2025,HMOZ25,1/1/2025,12/31/2025,2025,3.0,Education,14497441.0,1366878.0,9.0
+204,279,MOZ,Mozambique,1267,Mozambique Humanitarian Needs and Response Plan 2025,HMOZ25,1/1/2025,12/31/2025,2025,4.0,Emergency Shelter and NFI,24757498.0,6172572.0,25.0
+205,280,MOZ,Mozambique,1267,Mozambique Humanitarian Needs and Response Plan 2025,HMOZ25,1/1/2025,12/31/2025,2025,6.0,Food Security,160196906.0,36793262.0,23.0
+206,281,MOZ,Mozambique,1267,Mozambique Humanitarian Needs and Response Plan 2025,HMOZ25,1/1/2025,12/31/2025,2025,7.0,Health,20689745.0,4916434.0,24.0
+207,282,MOZ,Mozambique,1267,Mozambique Humanitarian Needs and Response Plan 2025,HMOZ25,1/1/2025,12/31/2025,2025,8.0,Logistics,8129365.0,2091195.0,26.0
+208,283,MOZ,Mozambique,1267,Mozambique Humanitarian Needs and Response Plan 2025,HMOZ25,1/1/2025,12/31/2025,2025,26479.0,Multi-sector,16249792.0,3350535.0,21.0
+209,285,MOZ,Mozambique,1267,Mozambique Humanitarian Needs and Response Plan 2025,HMOZ25,1/1/2025,12/31/2025,2025,9.0,Nutrition,17937238.0,2131191.0,12.0
+210,287,MOZ,Mozambique,1267,Mozambique Humanitarian Needs and Response Plan 2025,HMOZ25,1/1/2025,12/31/2025,2025,10.0,Protection,12782152.0,7694067.0,60.0
+211,288,MOZ,Mozambique,1267,Mozambique Humanitarian Needs and Response Plan 2025,HMOZ25,1/1/2025,12/31/2025,2025,12.0,Protection - Child Protection,10669570.0,1225129.0,11.0
+212,289,MOZ,Mozambique,1267,Mozambique Humanitarian Needs and Response Plan 2025,HMOZ25,1/1/2025,12/31/2025,2025,13.0,Protection - Gender-Based Violence,13533655.0,2834871.0,21.0
+213,291,MOZ,Mozambique,1267,Mozambique Humanitarian Needs and Response Plan 2025,HMOZ25,1/1/2025,12/31/2025,2025,11.0,Water Sanitation Hygiene,26268882.0,8317386.0,32.0
+214,294,MWI,Malawi,1281,Malawi Drought Response Flash Appeal 2025,FMWI25,1/1/2025,6/1/2025,2025,26512.0,Agriculture,21052632.0,315269.0,1.0
+215,295,MWI,Malawi,1281,Malawi Drought Response Flash Appeal 2025,FMWI25,1/1/2025,6/1/2025,2025,2.0,Early Recovery,1263158.0,328587.0,26.0
+216,296,MWI,Malawi,1281,Malawi Drought Response Flash Appeal 2025,FMWI25,1/1/2025,6/1/2025,2025,3.0,Education,968421.0,86930.0,9.0
+217,298,MWI,Malawi,1281,Malawi Drought Response Flash Appeal 2025,FMWI25,1/1/2025,6/1/2025,2025,6.0,Food Security,21368268.0,13321060.0,62.0
+218,299,MWI,Malawi,1281,Malawi Drought Response Flash Appeal 2025,FMWI25,1/1/2025,6/1/2025,2025,7.0,Health,1460253.0,260733.0,18.0
+219,301,MWI,Malawi,1281,Malawi Drought Response Flash Appeal 2025,FMWI25,1/1/2025,6/1/2025,2025,26479.0,Multi-sector,1121738.0,570507.0,51.0
+220,303,MWI,Malawi,1281,Malawi Drought Response Flash Appeal 2025,FMWI25,1/1/2025,6/1/2025,2025,9.0,Nutrition,2939961.0,4094934.0,139.0
+221,305,MWI,Malawi,1281,Malawi Drought Response Flash Appeal 2025,FMWI25,1/1/2025,6/1/2025,2025,12.0,Protection - Child Protection,126317.0,21524.0,17.0
+222,311,NER,Niger,1264,Niger Besoins Humanitaires et Plan de Réponse 2025,HNER25,1/1/2025,12/31/2025,2025,26480.0,Coordination and Support Services,6498457.0,2470492.0,38.0
+223,313,NER,Niger,1264,Niger Besoins Humanitaires et Plan de Réponse 2025,HNER25,1/1/2025,12/31/2025,2025,3.0,Education,58961794.0,11480963.0,19.0
+224,314,NER,Niger,1264,Niger Besoins Humanitaires et Plan de Réponse 2025,HNER25,1/1/2025,12/31/2025,2025,4.0,Emergency Shelter and NFI,53596042.0,3797162.0,7.0
+225,315,NER,Niger,1264,Niger Besoins Humanitaires et Plan de Réponse 2025,HNER25,1/1/2025,12/31/2025,2025,6.0,Food Security,188984351.0,46427621.0,25.0
+226,316,NER,Niger,1264,Niger Besoins Humanitaires et Plan de Réponse 2025,HNER25,1/1/2025,12/31/2025,2025,7.0,Health,39720818.0,6433330.0,16.0
+227,317,NER,Niger,1264,Niger Besoins Humanitaires et Plan de Réponse 2025,HNER25,1/1/2025,12/31/2025,2025,8.0,Logistics,13563968.0,7536243.0,56.0
+228,320,NER,Niger,1264,Niger Besoins Humanitaires et Plan de Réponse 2025,HNER25,1/1/2025,12/31/2025,2025,9.0,Nutrition,52702679.0,12725959.0,24.0
+229,321,NER,Niger,1264,Niger Besoins Humanitaires et Plan de Réponse 2025,HNER25,1/1/2025,12/31/2025,2025,10.0,Protection,103235651.0,22909030.0,22.0
+230,322,NER,Niger,1264,Niger Besoins Humanitaires et Plan de Réponse 2025,HNER25,1/1/2025,12/31/2025,2025,12.0,Protection - Child Protection,21621323.0,4694359.0,22.0
+231,323,NER,Niger,1264,Niger Besoins Humanitaires et Plan de Réponse 2025,HNER25,1/1/2025,12/31/2025,2025,13.0,Protection - Gender-Based Violence,24807705.0,1603507.0,6.0
+232,326,NER,Niger,1264,Niger Besoins Humanitaires et Plan de Réponse 2025,HNER25,1/1/2025,12/31/2025,2025,11.0,Water Sanitation Hygiene,29658541.0,14757890.0,50.0
+233,330,NGA,Nigeria,1274,Nigeria Humanitarian Needs and Response Plan 2025,HNGA25,1/1/2025,12/31/2025,2025,1.0,Camp Coordination and Camp Management,15996913.0,360500.0,2.0
+234,331,NGA,Nigeria,1274,Nigeria Humanitarian Needs and Response Plan 2025,HNGA25,1/1/2025,12/31/2025,2025,26480.0,Coordination and Support Services,15000000.0,6756433.0,45.0
+235,332,NGA,Nigeria,1274,Nigeria Humanitarian Needs and Response Plan 2025,HNGA25,1/1/2025,12/31/2025,2025,2.0,Early Recovery,22229420.0,14062498.0,63.0
+236,333,NGA,Nigeria,1274,Nigeria Humanitarian Needs and Response Plan 2025,HNGA25,1/1/2025,12/31/2025,2025,3.0,Education,35787765.0,13943216.0,39.0
+237,334,NGA,Nigeria,1274,Nigeria Humanitarian Needs and Response Plan 2025,HNGA25,1/1/2025,12/31/2025,2025,4.0,Emergency Shelter and NFI,54713175.0,7813476.0,14.0
+238,335,NGA,Nigeria,1274,Nigeria Humanitarian Needs and Response Plan 2025,HNGA25,1/1/2025,12/31/2025,2025,5.0,Emergency Telecommunications,1200000.0,100001.0,8.0
+239,336,NGA,Nigeria,1274,Nigeria Humanitarian Needs and Response Plan 2025,HNGA25,1/1/2025,12/31/2025,2025,6.0,Food Security,352175507.0,77883277.0,22.0
+240,337,NGA,Nigeria,1274,Nigeria Humanitarian Needs and Response Plan 2025,HNGA25,1/1/2025,12/31/2025,2025,7.0,Health,74121904.0,15989123.0,22.0
+241,338,NGA,Nigeria,1274,Nigeria Humanitarian Needs and Response Plan 2025,HNGA25,1/1/2025,12/31/2025,2025,8.0,Logistics,25500000.0,8391680.0,33.0
+242,339,NGA,Nigeria,1274,Nigeria Humanitarian Needs and Response Plan 2025,HNGA25,1/1/2025,12/31/2025,2025,26479.0,Multi-sector,45000000.0,3501810.0,8.0
+243,340,NGA,Nigeria,1274,Nigeria Humanitarian Needs and Response Plan 2025,HNGA25,1/1/2025,12/31/2025,2025,16.0,Multipurpose Cash,12000000.0,3407156.0,28.0
+244,341,NGA,Nigeria,1274,Nigeria Humanitarian Needs and Response Plan 2025,HNGA25,1/1/2025,12/31/2025,2025,9.0,Nutrition,132096081.0,61332652.0,46.0
+245,343,NGA,Nigeria,1274,Nigeria Humanitarian Needs and Response Plan 2025,HNGA25,1/1/2025,12/31/2025,2025,10.0,Protection,11164685.0,14590671.0,131.0
+246,344,NGA,Nigeria,1274,Nigeria Humanitarian Needs and Response Plan 2025,HNGA25,1/1/2025,12/31/2025,2025,12.0,Protection - Child Protection,15033491.0,3837763.0,26.0
+247,345,NGA,Nigeria,1274,Nigeria Humanitarian Needs and Response Plan 2025,HNGA25,1/1/2025,12/31/2025,2025,13.0,Protection - Gender-Based Violence,20458819.0,3870341.0,19.0
+248,346,NGA,Nigeria,1274,Nigeria Humanitarian Needs and Response Plan 2025,HNGA25,1/1/2025,12/31/2025,2025,14.0,"Protection - Housing, Land and Property",4870578.0,94458.0,2.0
+249,347,NGA,Nigeria,1274,Nigeria Humanitarian Needs and Response Plan 2025,HNGA25,1/1/2025,12/31/2025,2025,15.0,Protection - Mine Action,5652230.0,922092.0,16.0
+250,348,NGA,Nigeria,1274,Nigeria Humanitarian Needs and Response Plan 2025,HNGA25,1/1/2025,12/31/2025,2025,11.0,Water Sanitation Hygiene,67245903.0,12813269.0,19.0
+251,351,PAK,Pakistan,1431,Pakistan Floods Support Plan 2025,OPAK25,10/20/2025,12/31/2025,2025,26480.0,Coordination and Support Services,502762.0,71211.0,14.0
+252,353,PAK,Pakistan,1431,Pakistan Floods Support Plan 2025,OPAK25,10/20/2025,12/31/2025,2025,3.0,Education,10076456.0,4041531.0,40.0
+253,354,PAK,Pakistan,1431,Pakistan Floods Support Plan 2025,OPAK25,10/20/2025,12/31/2025,2025,4.0,Emergency Shelter and NFI,15015098.0,4570126.0,30.0
+254,355,PAK,Pakistan,1431,Pakistan Floods Support Plan 2025,OPAK25,10/20/2025,12/31/2025,2025,6.0,Food Security,32623121.0,7854790.0,24.0
+255,356,PAK,Pakistan,1431,Pakistan Floods Support Plan 2025,OPAK25,10/20/2025,12/31/2025,2025,7.0,Health,1652750.0,4382734.0,265.0
+256,357,PAK,Pakistan,1431,Pakistan Floods Support Plan 2025,OPAK25,10/20/2025,12/31/2025,2025,16.0,Multipurpose Cash,6752724.0,2610959.0,39.0
+257,358,PAK,Pakistan,1431,Pakistan Floods Support Plan 2025,OPAK25,10/20/2025,12/31/2025,2025,9.0,Nutrition,5746296.0,308699.0,5.0
+258,360,PAK,Pakistan,1431,Pakistan Floods Support Plan 2025,OPAK25,10/20/2025,12/31/2025,2025,10.0,Protection,3004237.0,140000.0,5.0
+259,362,PAK,Pakistan,1431,Pakistan Floods Support Plan 2025,OPAK25,10/20/2025,12/31/2025,2025,11.0,Water Sanitation Hygiene,10313736.0,4788221.0,46.0
+260,365,PHL,Philippines,1325,Philippines Tropical Cyclones and Floods Humanitarian Needs and Priorities 2025,OPHL25,1/1/2025,4/30/2025,2025,1.0,Camp Coordination and Camp Management,1320000.0,545791.0,41.0
+261,367,PHL,Philippines,1325,Philippines Tropical Cyclones and Floods Humanitarian Needs and Priorities 2025,OPHL25,1/1/2025,4/30/2025,2025,3.0,Education,1160000.0,1180008.0,102.0
+262,368,PHL,Philippines,1325,Philippines Tropical Cyclones and Floods Humanitarian Needs and Priorities 2025,OPHL25,1/1/2025,4/30/2025,2025,4.0,Emergency Shelter and NFI,4790800.0,4115023.0,86.0
+263,370,PHL,Philippines,1325,Philippines Tropical Cyclones and Floods Humanitarian Needs and Priorities 2025,OPHL25,1/1/2025,4/30/2025,2025,6.0,Food Security,5200000.0,3038592.0,58.0
+264,371,PHL,Philippines,1325,Philippines Tropical Cyclones and Floods Humanitarian Needs and Priorities 2025,OPHL25,1/1/2025,4/30/2025,2025,7.0,Health,191200.0,2321522.0,1214.0
+265,372,PHL,Philippines,1325,Philippines Tropical Cyclones and Floods Humanitarian Needs and Priorities 2025,OPHL25,1/1/2025,4/30/2025,2025,8.0,Logistics,200000.0,1500000.0,750.0
+266,374,PHL,Philippines,1325,Philippines Tropical Cyclones and Floods Humanitarian Needs and Priorities 2025,OPHL25,1/1/2025,4/30/2025,2025,16.0,Multipurpose Cash,1742269.0,5227216.0,300.0
+267,375,PHL,Philippines,1325,Philippines Tropical Cyclones and Floods Humanitarian Needs and Priorities 2025,OPHL25,1/1/2025,4/30/2025,2025,9.0,Nutrition,80000.0,43280.0,54.0
+268,377,PHL,Philippines,1325,Philippines Tropical Cyclones and Floods Humanitarian Needs and Priorities 2025,OPHL25,1/1/2025,4/30/2025,2025,10.0,Protection,232482.0,937641.0,403.0
+269,380,PHL,Philippines,1325,Philippines Tropical Cyclones and Floods Humanitarian Needs and Priorities 2025,OPHL25,1/1/2025,4/30/2025,2025,11.0,Water Sanitation Hygiene,1944000.0,2381007.0,122.0
+270,383,PSE,oPt,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,1/1/2025,12/31/2025,2025,1.0,Camp Coordination and Camp Management,81345050.0,592926.0,1.0
+271,384,PSE,oPt,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,1/1/2025,12/31/2025,2025,26480.0,Coordination and Support Services,285054038.0,42615101.0,15.0
+272,386,PSE,oPt,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,1/1/2025,12/31/2025,2025,3.0,Education,230331261.0,53213559.0,23.0
+273,387,PSE,oPt,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,1/1/2025,12/31/2025,2025,4.0,Emergency Shelter and NFI,249680000.0,86170868.0,35.0
+274,388,PSE,oPt,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,1/1/2025,12/31/2025,2025,5.0,Emergency Telecommunications,2520000.0,1791342.0,71.0
+275,389,PSE,oPt,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,1/1/2025,12/31/2025,2025,6.0,Food Security,1303588029.0,803531230.0,62.0
+276,390,PSE,oPt,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,1/1/2025,12/31/2025,2025,7.0,Health,596090390.0,325268960.0,55.0
+277,391,PSE,oPt,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,1/1/2025,12/31/2025,2025,8.0,Logistics,74750000.0,39964467.0,53.0
+278,393,PSE,oPt,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,1/1/2025,12/31/2025,2025,16.0,Multipurpose Cash,370261781.0,292548256.0,79.0
+279,394,PSE,oPt,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,1/1/2025,12/31/2025,2025,9.0,Nutrition,203000000.0,43329505.0,21.0
+280,396,PSE,oPt,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,1/1/2025,12/31/2025,2025,10.0,Protection,27922813.0,59031540.0,211.0
+281,397,PSE,oPt,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,1/1/2025,12/31/2025,2025,12.0,Protection - Child Protection,138077550.0,51067631.0,37.0
+282,398,PSE,oPt,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,1/1/2025,12/31/2025,2025,13.0,Protection - Gender-Based Violence,75700607.0,21866796.0,29.0
+283,399,PSE,oPt,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,1/1/2025,12/31/2025,2025,14.0,"Protection - Housing, Land and Property",1362500.0,305250.0,22.0
+284,400,PSE,oPt,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,1/1/2025,12/31/2025,2025,15.0,Protection - Mine Action,32601662.0,5649656.0,17.0
+285,401,PSE,oPt,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,1/1/2025,12/31/2025,2025,11.0,Water Sanitation Hygiene,400773001.0,103171451.0,26.0
+286,404,SDN,Sudan,1220,Sudan Humanitarian Needs and Response Plan 2025,HSDN25,1/1/2025,12/31/2025,2025,1.0,Camp Coordination and Camp Management,15922884.0,520000.0,3.0
+287,405,SDN,Sudan,1220,Sudan Humanitarian Needs and Response Plan 2025,HSDN25,1/1/2025,12/31/2025,2025,26480.0,Coordination and Support Services,29440000.0,21730690.0,74.0
+288,407,SDN,Sudan,1220,Sudan Humanitarian Needs and Response Plan 2025,HSDN25,1/1/2025,12/31/2025,2025,3.0,Education,108103536.0,70759912.0,65.0
+289,408,SDN,Sudan,1220,Sudan Humanitarian Needs and Response Plan 2025,HSDN25,1/1/2025,12/31/2025,2025,4.0,Emergency Shelter and NFI,229433700.0,47592329.0,21.0
+290,410,SDN,Sudan,1220,Sudan Humanitarian Needs and Response Plan 2025,HSDN25,1/1/2025,12/31/2025,2025,6.0,Food Security,1536551646.0,753281420.0,49.0
+291,411,SDN,Sudan,1220,Sudan Humanitarian Needs and Response Plan 2025,HSDN25,1/1/2025,12/31/2025,2025,7.0,Health,262340000.0,138685546.0,53.0
+292,412,SDN,Sudan,1220,Sudan Humanitarian Needs and Response Plan 2025,HSDN25,1/1/2025,12/31/2025,2025,8.0,Logistics,83543717.0,4540163.0,5.0
+293,413,SDN,Sudan,1220,Sudan Humanitarian Needs and Response Plan 2025,HSDN25,1/1/2025,12/31/2025,2025,26479.0,Multi-sector,633000000.0,51294026.0,8.0
+294,414,SDN,Sudan,1220,Sudan Humanitarian Needs and Response Plan 2025,HSDN25,1/1/2025,12/31/2025,2025,16.0,Multipurpose Cash,201807198.0,60885731.0,30.0
+295,415,SDN,Sudan,1220,Sudan Humanitarian Needs and Response Plan 2025,HSDN25,1/1/2025,12/31/2025,2025,9.0,Nutrition,471663701.0,81749024.0,17.0
+296,417,SDN,Sudan,1220,Sudan Humanitarian Needs and Response Plan 2025,HSDN25,1/1/2025,12/31/2025,2025,10.0,Protection,73151920.0,62638569.0,86.0
+297,418,SDN,Sudan,1220,Sudan Humanitarian Needs and Response Plan 2025,HSDN25,1/1/2025,12/31/2025,2025,12.0,Protection - Child Protection,90628013.0,30333951.0,33.0
+298,419,SDN,Sudan,1220,Sudan Humanitarian Needs and Response Plan 2025,HSDN25,1/1/2025,12/31/2025,2025,13.0,Protection - Gender-Based Violence,88542222.0,31960095.0,36.0
+299,420,SDN,Sudan,1220,Sudan Humanitarian Needs and Response Plan 2025,HSDN25,1/1/2025,12/31/2025,2025,15.0,Protection - Mine Action,23500050.0,13107081.0,56.0
+300,421,SDN,Sudan,1220,Sudan Humanitarian Needs and Response Plan 2025,HSDN25,1/1/2025,12/31/2025,2025,11.0,Water Sanitation Hygiene,301005070.0,73176170.0,24.0
+301,424,SLV,El Salvador,1268,El Salvador Necesidades Humanitarias y Plan de Respuesta 2025,HSLV25,1/1/2025,12/31/2025,2025,1.0,Camp Coordination and Camp Management,1130000.0,616657.0,55.0
+302,426,SLV,El Salvador,1268,El Salvador Necesidades Humanitarias y Plan de Respuesta 2025,HSLV25,1/1/2025,12/31/2025,2025,3.0,Education,3332338.0,3456911.0,104.0
+303,427,SLV,El Salvador,1268,El Salvador Necesidades Humanitarias y Plan de Respuesta 2025,HSLV25,1/1/2025,12/31/2025,2025,4.0,Emergency Shelter and NFI,3840000.0,729549.0,19.0
+304,428,SLV,El Salvador,1268,El Salvador Necesidades Humanitarias y Plan de Respuesta 2025,HSLV25,1/1/2025,12/31/2025,2025,6.0,Food Security,13700000.0,6085310.0,44.0
+305,429,SLV,El Salvador,1268,El Salvador Necesidades Humanitarias y Plan de Respuesta 2025,HSLV25,1/1/2025,12/31/2025,2025,7.0,Health,3500000.0,264000.0,8.0
+306,432,SLV,El Salvador,1268,El Salvador Necesidades Humanitarias y Plan de Respuesta 2025,HSLV25,1/1/2025,12/31/2025,2025,10.0,Protection,19893841.0,4491710.0,23.0
+307,433,SLV,El Salvador,1268,El Salvador Necesidades Humanitarias y Plan de Respuesta 2025,HSLV25,1/1/2025,12/31/2025,2025,12.0,Protection - Child Protection,6499999.0,228528.0,4.0
+308,434,SLV,El Salvador,1268,El Salvador Necesidades Humanitarias y Plan de Respuesta 2025,HSLV25,1/1/2025,12/31/2025,2025,13.0,Protection - Gender-Based Violence,6080337.0,192321.0,3.0
+309,439,SOM,Somalia,1221,Somalia Humanitarian Needs and Response Plan 2025,HSOM25,1/1/2025,12/31/2025,2025,1.0,Camp Coordination and Camp Management,44600000.0,7048057.0,16.0
+310,440,SOM,Somalia,1221,Somalia Humanitarian Needs and Response Plan 2025,HSOM25,1/1/2025,12/31/2025,2025,26480.0,Coordination and Support Services,34404522.0,7726488.0,22.0
+311,442,SOM,Somalia,1221,Somalia Humanitarian Needs and Response Plan 2025,HSOM25,1/1/2025,12/31/2025,2025,3.0,Education,68556573.0,50418036.0,74.0
+312,443,SOM,Somalia,1221,Somalia Humanitarian Needs and Response Plan 2025,HSOM25,1/1/2025,12/31/2025,2025,4.0,Emergency Shelter and NFI,60829265.0,7771188.0,13.0
+313,444,SOM,Somalia,1221,Somalia Humanitarian Needs and Response Plan 2025,HSOM25,1/1/2025,12/31/2025,2025,6.0,Food Security,515004068.0,84418861.0,16.0
+314,445,SOM,Somalia,1221,Somalia Humanitarian Needs and Response Plan 2025,HSOM25,1/1/2025,12/31/2025,2025,7.0,Health,123025533.0,43329033.0,35.0
+315,446,SOM,Somalia,1221,Somalia Humanitarian Needs and Response Plan 2025,HSOM25,1/1/2025,12/31/2025,2025,8.0,Logistics,27008448.0,4701349.0,17.0
+316,447,SOM,Somalia,1221,Somalia Humanitarian Needs and Response Plan 2025,HSOM25,1/1/2025,12/31/2025,2025,26479.0,Multi-sector,76013747.0,33471094.0,44.0
+317,448,SOM,Somalia,1221,Somalia Humanitarian Needs and Response Plan 2025,HSOM25,1/1/2025,12/31/2025,2025,16.0,Multipurpose Cash,60649678.0,29952669.0,49.0
+318,449,SOM,Somalia,1221,Somalia Humanitarian Needs and Response Plan 2025,HSOM25,1/1/2025,12/31/2025,2025,9.0,Nutrition,117031617.0,43213036.0,37.0
+319,451,SOM,Somalia,1221,Somalia Humanitarian Needs and Response Plan 2025,HSOM25,1/1/2025,12/31/2025,2025,10.0,Protection,21794210.0,19936178.0,91.0
+320,452,SOM,Somalia,1221,Somalia Humanitarian Needs and Response Plan 2025,HSOM25,1/1/2025,12/31/2025,2025,12.0,Protection - Child Protection,48070726.0,9574118.0,20.0
+321,453,SOM,Somalia,1221,Somalia Humanitarian Needs and Response Plan 2025,HSOM25,1/1/2025,12/31/2025,2025,13.0,Protection - Gender-Based Violence,75854375.0,9926760.0,13.0
+322,455,SOM,Somalia,1221,Somalia Humanitarian Needs and Response Plan 2025,HSOM25,1/1/2025,12/31/2025,2025,15.0,Protection - Mine Action,9042527.0,3255115.0,36.0
+323,456,SOM,Somalia,1221,Somalia Humanitarian Needs and Response Plan 2025,HSOM25,1/1/2025,12/31/2025,2025,11.0,Water Sanitation Hygiene,129075669.0,35985457.0,28.0
+324,460,SSD,South Sudan,1223,South Sudan Humanitarian Needs and Response Plan 2025,HSSD25,1/1/2025,12/31/2025,2025,1.0,Camp Coordination and Camp Management,18586560.0,1133397.0,6.0
+325,461,SSD,South Sudan,1223,South Sudan Humanitarian Needs and Response Plan 2025,HSSD25,1/1/2025,12/31/2025,2025,26480.0,Coordination and Support Services,36000000.0,16608013.0,46.0
+326,462,SSD,South Sudan,1223,South Sudan Humanitarian Needs and Response Plan 2025,HSSD25,1/1/2025,12/31/2025,2025,3.0,Education,40426260.0,11807136.0,29.0
+327,463,SSD,South Sudan,1223,South Sudan Humanitarian Needs and Response Plan 2025,HSSD25,1/1/2025,12/31/2025,2025,4.0,Emergency Shelter and NFI,46473960.0,12402787.0,27.0
+328,464,SSD,South Sudan,1223,South Sudan Humanitarian Needs and Response Plan 2025,HSSD25,1/1/2025,12/31/2025,2025,6.0,Food Security,475068793.0,286396861.0,60.0
+329,465,SSD,South Sudan,1223,South Sudan Humanitarian Needs and Response Plan 2025,HSSD25,1/1/2025,12/31/2025,2025,7.0,Health,119228984.0,40229115.0,34.0
+330,466,SSD,South Sudan,1223,South Sudan Humanitarian Needs and Response Plan 2025,HSSD25,1/1/2025,12/31/2025,2025,8.0,Logistics,99806929.0,38030189.0,38.0
+331,467,SSD,South Sudan,1223,South Sudan Humanitarian Needs and Response Plan 2025,HSSD25,1/1/2025,12/31/2025,2025,26479.0,Multi-sector,468000000.0,41127875.0,9.0
+332,468,SSD,South Sudan,1223,South Sudan Humanitarian Needs and Response Plan 2025,HSSD25,1/1/2025,12/31/2025,2025,16.0,Multipurpose Cash,25000010.0,18444089.0,74.0
+333,469,SSD,South Sudan,1223,South Sudan Humanitarian Needs and Response Plan 2025,HSSD25,1/1/2025,12/31/2025,2025,9.0,Nutrition,198443343.0,97932384.0,49.0
+334,471,SSD,South Sudan,1223,South Sudan Humanitarian Needs and Response Plan 2025,HSSD25,1/1/2025,12/31/2025,2025,10.0,Protection,15135848.0,21519789.0,142.0
+335,472,SSD,South Sudan,1223,South Sudan Humanitarian Needs and Response Plan 2025,HSSD25,1/1/2025,12/31/2025,2025,12.0,Protection - Child Protection,25654450.0,6539900.0,25.0
+336,473,SSD,South Sudan,1223,South Sudan Humanitarian Needs and Response Plan 2025,HSSD25,1/1/2025,12/31/2025,2025,13.0,Protection - Gender-Based Violence,27655031.0,14077000.0,51.0
+337,474,SSD,South Sudan,1223,South Sudan Humanitarian Needs and Response Plan 2025,HSSD25,1/1/2025,12/31/2025,2025,14.0,"Protection - Housing, Land and Property",6207612.0,14351.0,0.0
+338,475,SSD,South Sudan,1223,South Sudan Humanitarian Needs and Response Plan 2025,HSSD25,1/1/2025,12/31/2025,2025,15.0,Protection - Mine Action,6775082.0,4367438.0,64.0
+339,476,SSD,South Sudan,1223,South Sudan Humanitarian Needs and Response Plan 2025,HSSD25,1/1/2025,12/31/2025,2025,11.0,Water Sanitation Hygiene,86315791.0,23380319.0,27.0
+340,480,SYR,Syria,1276,Syrian Arab Republic Humanitarian Response Priorities – January-December 2025,FSYR25,1/1/2025,12/31/2025,2025,1.0,Camp Coordination and Camp Management,47703376.0,49213480.0,103.0
+341,481,SYR,Syria,1276,Syrian Arab Republic Humanitarian Response Priorities – January-December 2025,FSYR25,1/1/2025,12/31/2025,2025,26480.0,Coordination and Support Services,21536620.0,18456030.0,86.0
+342,482,SYR,Syria,1276,Syrian Arab Republic Humanitarian Response Priorities – January-December 2025,FSYR25,1/1/2025,12/31/2025,2025,2.0,Early Recovery,169937800.0,152027751.0,89.0
+343,483,SYR,Syria,1276,Syrian Arab Republic Humanitarian Response Priorities – January-December 2025,FSYR25,1/1/2025,12/31/2025,2025,3.0,Education,254199998.0,74584647.0,29.0
+344,484,SYR,Syria,1276,Syrian Arab Republic Humanitarian Response Priorities – January-December 2025,FSYR25,1/1/2025,12/31/2025,2025,4.0,Emergency Shelter and NFI,316612069.0,59131793.0,19.0
+345,485,SYR,Syria,1276,Syrian Arab Republic Humanitarian Response Priorities – January-December 2025,FSYR25,1/1/2025,12/31/2025,2025,5.0,Emergency Telecommunications,558000.0,82160.0,15.0
+346,486,SYR,Syria,1276,Syrian Arab Republic Humanitarian Response Priorities – January-December 2025,FSYR25,1/1/2025,12/31/2025,2025,6.0,Food Security,856444999.0,251400860.0,29.0
+347,487,SYR,Syria,1276,Syrian Arab Republic Humanitarian Response Priorities – January-December 2025,FSYR25,1/1/2025,12/31/2025,2025,7.0,Health,565457050.0,159736808.0,28.0
+348,488,SYR,Syria,1276,Syrian Arab Republic Humanitarian Response Priorities – January-December 2025,FSYR25,1/1/2025,12/31/2025,2025,8.0,Logistics,1444500.0,4181476.0,289.0
+349,490,SYR,Syria,1276,Syrian Arab Republic Humanitarian Response Priorities – January-December 2025,FSYR25,1/1/2025,12/31/2025,2025,16.0,Multipurpose Cash,145841418.0,28088322.0,19.0
+350,491,SYR,Syria,1276,Syrian Arab Republic Humanitarian Response Priorities – January-December 2025,FSYR25,1/1/2025,12/31/2025,2025,9.0,Nutrition,164806667.0,15006641.0,9.0
+351,493,SYR,Syria,1276,Syrian Arab Republic Humanitarian Response Priorities – January-December 2025,FSYR25,1/1/2025,12/31/2025,2025,10.0,Protection,42753102.0,81135299.0,190.0
+352,494,SYR,Syria,1276,Syrian Arab Republic Humanitarian Response Priorities – January-December 2025,FSYR25,1/1/2025,12/31/2025,2025,12.0,Protection - Child Protection,79655120.0,15909890.0,20.0
+353,495,SYR,Syria,1276,Syrian Arab Republic Humanitarian Response Priorities – January-December 2025,FSYR25,1/1/2025,12/31/2025,2025,13.0,Protection - Gender-Based Violence,64082876.0,10037811.0,16.0
+354,497,SYR,Syria,1276,Syrian Arab Republic Humanitarian Response Priorities – January-December 2025,FSYR25,1/1/2025,12/31/2025,2025,15.0,Protection - Mine Action,67181507.0,12661612.0,19.0
+355,498,SYR,Syria,1276,Syrian Arab Republic Humanitarian Response Priorities – January-December 2025,FSYR25,1/1/2025,12/31/2025,2025,11.0,Water Sanitation Hygiene,388370178.0,61394240.0,16.0
+356,502,TCD,Chad,1260,Tchad Besoins Humanitaires et Plan de Réponse 2025,HTCD25,1/1/2025,12/31/2025,2025,1.0,Camp Coordination and Camp Management,5283080.0,1493422.0,28.0
+357,503,TCD,Chad,1260,Tchad Besoins Humanitaires et Plan de Réponse 2025,HTCD25,1/1/2025,12/31/2025,2025,26480.0,Coordination and Support Services,30295496.0,12395973.0,41.0
+358,505,TCD,Chad,1260,Tchad Besoins Humanitaires et Plan de Réponse 2025,HTCD25,1/1/2025,12/31/2025,2025,3.0,Education,35841250.0,18712376.0,52.0
+359,506,TCD,Chad,1260,Tchad Besoins Humanitaires et Plan de Réponse 2025,HTCD25,1/1/2025,12/31/2025,2025,4.0,Emergency Shelter and NFI,25297229.0,7324504.0,29.0
+360,507,TCD,Chad,1260,Tchad Besoins Humanitaires et Plan de Réponse 2025,HTCD25,1/1/2025,12/31/2025,2025,6.0,Food Security,286949013.0,144001547.0,50.0
+361,508,TCD,Chad,1260,Tchad Besoins Humanitaires et Plan de Réponse 2025,HTCD25,1/1/2025,12/31/2025,2025,7.0,Health,41347771.0,9813360.0,24.0
+362,509,TCD,Chad,1260,Tchad Besoins Humanitaires et Plan de Réponse 2025,HTCD25,1/1/2025,12/31/2025,2025,26479.0,Multi-sector,806698092.0,166404256.0,21.0
+363,511,TCD,Chad,1260,Tchad Besoins Humanitaires et Plan de Réponse 2025,HTCD25,1/1/2025,12/31/2025,2025,9.0,Nutrition,151338539.0,28528294.0,19.0
+364,513,TCD,Chad,1260,Tchad Besoins Humanitaires et Plan de Réponse 2025,HTCD25,1/1/2025,12/31/2025,2025,10.0,Protection,6141970.0,15173412.0,247.0
+365,514,TCD,Chad,1260,Tchad Besoins Humanitaires et Plan de Réponse 2025,HTCD25,1/1/2025,12/31/2025,2025,12.0,Protection - Child Protection,6110681.0,526449.0,9.0
+366,515,TCD,Chad,1260,Tchad Besoins Humanitaires et Plan de Réponse 2025,HTCD25,1/1/2025,12/31/2025,2025,13.0,Protection - Gender-Based Violence,5364676.0,499675.0,9.0
+367,516,TCD,Chad,1260,Tchad Besoins Humanitaires et Plan de Réponse 2025,HTCD25,1/1/2025,12/31/2025,2025,11.0,Water Sanitation Hygiene,47880668.0,16808632.0,35.0
+368,520,UKR,Ukraine,1271,Ukraine Humanitarian Needs and Response Plan 2025,HUKR25,1/1/2025,12/31/2025,2025,1.0,Camp Coordination and Camp Management,20366691.0,21897590.0,108.0
+369,521,UKR,Ukraine,1271,Ukraine Humanitarian Needs and Response Plan 2025,HUKR25,1/1/2025,12/31/2025,2025,26480.0,Coordination and Support Services,12500000.0,29733022.0,238.0
+370,523,UKR,Ukraine,1271,Ukraine Humanitarian Needs and Response Plan 2025,HUKR25,1/1/2025,12/31/2025,2025,3.0,Education,84638278.0,57504196.0,68.0
+371,524,UKR,Ukraine,1271,Ukraine Humanitarian Needs and Response Plan 2025,HUKR25,1/1/2025,12/31/2025,2025,4.0,Emergency Shelter and NFI,544595924.0,196321781.0,36.0
+372,525,UKR,Ukraine,1271,Ukraine Humanitarian Needs and Response Plan 2025,HUKR25,1/1/2025,12/31/2025,2025,5.0,Emergency Telecommunications,1350000.0,485437.0,36.0
+373,526,UKR,Ukraine,1271,Ukraine Humanitarian Needs and Response Plan 2025,HUKR25,1/1/2025,12/31/2025,2025,6.0,Food Security,613354114.0,183562293.0,30.0
+374,527,UKR,Ukraine,1271,Ukraine Humanitarian Needs and Response Plan 2025,HUKR25,1/1/2025,12/31/2025,2025,7.0,Health,130897336.0,138931335.0,106.0
+375,528,UKR,Ukraine,1271,Ukraine Humanitarian Needs and Response Plan 2025,HUKR25,1/1/2025,12/31/2025,2025,8.0,Logistics,5123800.0,2908131.0,57.0
+376,530,UKR,Ukraine,1271,Ukraine Humanitarian Needs and Response Plan 2025,HUKR25,1/1/2025,12/31/2025,2025,16.0,Multipurpose Cash,410157857.0,147129563.0,36.0
+377,533,UKR,Ukraine,1271,Ukraine Humanitarian Needs and Response Plan 2025,HUKR25,1/1/2025,12/31/2025,2025,10.0,Protection,171950000.0,143294847.0,83.0
+378,534,UKR,Ukraine,1271,Ukraine Humanitarian Needs and Response Plan 2025,HUKR25,1/1/2025,12/31/2025,2025,12.0,Protection - Child Protection,128873002.0,56412942.0,44.0
+379,535,UKR,Ukraine,1271,Ukraine Humanitarian Needs and Response Plan 2025,HUKR25,1/1/2025,12/31/2025,2025,13.0,Protection - Gender-Based Violence,57938983.0,33809150.0,58.0
+380,536,UKR,Ukraine,1271,Ukraine Humanitarian Needs and Response Plan 2025,HUKR25,1/1/2025,12/31/2025,2025,15.0,Protection - Mine Action,86476039.0,111010780.0,128.0
+381,537,UKR,Ukraine,1271,Ukraine Humanitarian Needs and Response Plan 2025,HUKR25,1/1/2025,12/31/2025,2025,11.0,Water Sanitation Hygiene,365311986.0,82469644.0,23.0
+382,540,VEN,Venezuela,1277,Venezuela Plan de Respuesta Humanitaria 2025,HVEN25,1/1/2025,12/31/2025,2025,26480.0,Coordination and Support Services,16129346.0,4747515.0,29.0
+383,541,VEN,Venezuela,1277,Venezuela Plan de Respuesta Humanitaria 2025,HVEN25,1/1/2025,12/31/2025,2025,3.0,Education,51669124.0,10341656.0,20.0
+384,542,VEN,Venezuela,1277,Venezuela Plan de Respuesta Humanitaria 2025,HVEN25,1/1/2025,12/31/2025,2025,4.0,Emergency Shelter and NFI,35761265.0,2076308.0,6.0
+385,543,VEN,Venezuela,1277,Venezuela Plan de Respuesta Humanitaria 2025,HVEN25,1/1/2025,12/31/2025,2025,6.0,Food Security,147517045.0,35713526.0,24.0
+386,544,VEN,Venezuela,1277,Venezuela Plan de Respuesta Humanitaria 2025,HVEN25,1/1/2025,12/31/2025,2025,7.0,Health,118101521.0,18698331.0,16.0
+387,546,VEN,Venezuela,1277,Venezuela Plan de Respuesta Humanitaria 2025,HVEN25,1/1/2025,12/31/2025,2025,9.0,Nutrition,31039486.0,4018969.0,13.0
+388,548,VEN,Venezuela,1277,Venezuela Plan de Respuesta Humanitaria 2025,HVEN25,1/1/2025,12/31/2025,2025,10.0,Protection,29137773.0,12937496.0,44.0
+389,549,VEN,Venezuela,1277,Venezuela Plan de Respuesta Humanitaria 2025,HVEN25,1/1/2025,12/31/2025,2025,12.0,Protection - Child Protection,36717735.0,3427985.0,9.0
+390,550,VEN,Venezuela,1277,Venezuela Plan de Respuesta Humanitaria 2025,HVEN25,1/1/2025,12/31/2025,2025,13.0,Protection - Gender-Based Violence,41738240.0,6827619.0,16.0
+391,551,VEN,Venezuela,1277,Venezuela Plan de Respuesta Humanitaria 2025,HVEN25,1/1/2025,12/31/2025,2025,11.0,Water Sanitation Hygiene,98686173.0,5263629.0,5.0
+392,554,VNM,Vietnam,1283,Viet Nam 24-25 Joint Response Plan for Typhoon Yagi and Floods 2025,OVNM25b,1/1/2025,6/30/2025,2025,2.0,Early Recovery,880000.0,1200000.0,136.0
+393,556,VNM,Vietnam,1283,Viet Nam 24-25 Joint Response Plan for Typhoon Yagi and Floods 2025,OVNM25b,1/1/2025,6/30/2025,2025,4.0,Emergency Shelter and NFI,4333750.0,1000000.0,23.0
+394,557,VNM,Vietnam,1283,Viet Nam 24-25 Joint Response Plan for Typhoon Yagi and Floods 2025,OVNM25b,1/1/2025,6/30/2025,2025,6.0,Food Security,8530000.0,1750718.0,21.0
+395,558,VNM,Vietnam,1283,Viet Nam 24-25 Joint Response Plan for Typhoon Yagi and Floods 2025,OVNM25b,1/1/2025,6/30/2025,2025,7.0,Health,4300000.0,233865.0,5.0
+396,560,VNM,Vietnam,1283,Viet Nam 24-25 Joint Response Plan for Typhoon Yagi and Floods 2025,OVNM25b,1/1/2025,6/30/2025,2025,10.0,Protection,1725000.0,15000.0,1.0
+397,564,VNM,Vietnam,1465,Viet Nam 25-26 Joint Response Plan Multiple Typhoons and Floods 2025,OVNM25a,10/28/2025,12/31/2025,2025,2.0,Early Recovery,2941473.0,266444.0,9.0
+398,565,VNM,Vietnam,1465,Viet Nam 25-26 Joint Response Plan Multiple Typhoons and Floods 2025,OVNM25a,10/28/2025,12/31/2025,2025,3.0,Education,1900000.0,71985.0,4.0
+399,566,VNM,Vietnam,1465,Viet Nam 25-26 Joint Response Plan Multiple Typhoons and Floods 2025,OVNM25a,10/28/2025,12/31/2025,2025,4.0,Emergency Shelter and NFI,10400000.0,2941166.0,28.0
+400,567,VNM,Vietnam,1465,Viet Nam 25-26 Joint Response Plan Multiple Typhoons and Floods 2025,OVNM25a,10/28/2025,12/31/2025,2025,6.0,Food Security,7439182.0,1204607.0,16.0
+401,568,VNM,Vietnam,1465,Viet Nam 25-26 Joint Response Plan Multiple Typhoons and Floods 2025,OVNM25a,10/28/2025,12/31/2025,2025,7.0,Health,1100000.0,355125.0,32.0
+402,570,VNM,Vietnam,1465,Viet Nam 25-26 Joint Response Plan Multiple Typhoons and Floods 2025,OVNM25a,10/28/2025,12/31/2025,2025,10.0,Protection,656000.0,120921.0,18.0
+403,571,VNM,Vietnam,1465,Viet Nam 25-26 Joint Response Plan Multiple Typhoons and Floods 2025,OVNM25a,10/28/2025,12/31/2025,2025,11.0,Water Sanitation Hygiene,9350000.0,1527189.0,16.0
+404,575,YEM,Yemen,1262,Yemen Humanitarian Needs and Response Plan 2025,HYEM25,1/1/2025,12/31/2025,2025,1.0,Camp Coordination and Camp Management,55100000.0,3082633.0,6.0
+405,576,YEM,Yemen,1262,Yemen Humanitarian Needs and Response Plan 2025,HYEM25,1/1/2025,12/31/2025,2025,26480.0,Coordination and Support Services,31631755.0,18655561.0,59.0
+406,578,YEM,Yemen,1262,Yemen Humanitarian Needs and Response Plan 2025,HYEM25,1/1/2025,12/31/2025,2025,3.0,Education,74902939.0,30819136.0,41.0
+407,579,YEM,Yemen,1262,Yemen Humanitarian Needs and Response Plan 2025,HYEM25,1/1/2025,12/31/2025,2025,4.0,Emergency Shelter and NFI,170000000.0,21963917.0,13.0
+408,581,YEM,Yemen,1262,Yemen Humanitarian Needs and Response Plan 2025,HYEM25,1/1/2025,12/31/2025,2025,6.0,Food Security,1104275500.0,240532637.0,22.0
+409,582,YEM,Yemen,1262,Yemen Humanitarian Needs and Response Plan 2025,HYEM25,1/1/2025,12/31/2025,2025,7.0,Health,261972778.0,125216214.0,48.0
+410,583,YEM,Yemen,1262,Yemen Humanitarian Needs and Response Plan 2025,HYEM25,1/1/2025,12/31/2025,2025,8.0,Logistics,33100000.0,16724014.0,51.0
+411,584,YEM,Yemen,1262,Yemen Humanitarian Needs and Response Plan 2025,HYEM25,1/1/2025,12/31/2025,2025,26479.0,Multi-sector,48255505.0,34953279.0,72.0
+412,585,YEM,Yemen,1262,Yemen Humanitarian Needs and Response Plan 2025,HYEM25,1/1/2025,12/31/2025,2025,16.0,Multipurpose Cash,111674160.0,21665649.0,19.0
+413,586,YEM,Yemen,1262,Yemen Humanitarian Needs and Response Plan 2025,HYEM25,1/1/2025,12/31/2025,2025,9.0,Nutrition,237891997.0,30056843.0,13.0
+414,587,YEM,Yemen,1262,Yemen Humanitarian Needs and Response Plan 2025,HYEM25,1/1/2025,12/31/2025,2025,10.0,Protection,63645979.0,21959103.0,35.0
+415,588,YEM,Yemen,1262,Yemen Humanitarian Needs and Response Plan 2025,HYEM25,1/1/2025,12/31/2025,2025,12.0,Protection - Child Protection,34804919.0,18337701.0,53.0
+416,589,YEM,Yemen,1262,Yemen Humanitarian Needs and Response Plan 2025,HYEM25,1/1/2025,12/31/2025,2025,13.0,Protection - Gender-Based Violence,55847500.0,5045510.0,9.0
+417,590,YEM,Yemen,1262,Yemen Humanitarian Needs and Response Plan 2025,HYEM25,1/1/2025,12/31/2025,2025,15.0,Protection - Mine Action,16566000.0,4684935.0,28.0
+418,591,YEM,Yemen,1262,Yemen Humanitarian Needs and Response Plan 2025,HYEM25,1/1/2025,12/31/2025,2025,11.0,Water Sanitation Hygiene,176905809.0,36481809.0,21.0
+419,594,ZMB,Zambia,1278,Zambia Drought Flash Appeal 2025,FZMB25,1/1/2025,6/30/2025,2025,26512.0,Agriculture,21882215.0,3939242.0,18.0
+420,597,ZMB,Zambia,1278,Zambia Drought Flash Appeal 2025,FZMB25,1/1/2025,6/30/2025,2025,6.0,Food Security,47177800.0,11654965.0,25.0
+421,598,ZMB,Zambia,1278,Zambia Drought Flash Appeal 2025,FZMB25,1/1/2025,6/30/2025,2025,7.0,Health,1924650.0,477268.0,25.0
+422,600,ZMB,Zambia,1278,Zambia Drought Flash Appeal 2025,FZMB25,1/1/2025,6/30/2025,2025,9.0,Nutrition,5926165.0,249847.0,4.0
+423,601,ZMB,Zambia,1278,Zambia Drought Flash Appeal 2025,FZMB25,1/1/2025,6/30/2025,2025,10.0,Protection,1153850.0,485245.0,42.0
+424,603,ZMB,Zambia,1278,Zambia Drought Flash Appeal 2025,FZMB25,1/1/2025,6/30/2025,2025,13.0,Protection - Gender-Based Violence,507700.0,400000.0,79.0
+425,604,ZMB,Zambia,1278,Zambia Drought Flash Appeal 2025,FZMB25,1/1/2025,6/30/2025,2025,11.0,Water Sanitation Hygiene,4800915.0,499771.0,10.0
+426,607,ZWE,Zimbabwe,1280,Zimbabwe Drought Flash Appeal 2025,FZWE25,1/1/2025,6/1/2025,2025,26480.0,Coordination and Support Services,350000.0,336202.0,96.0
+427,608,ZWE,Zimbabwe,1280,Zimbabwe Drought Flash Appeal 2025,FZWE25,1/1/2025,6/1/2025,2025,3.0,Education,4030088.0,1527047.0,38.0
+428,610,ZWE,Zimbabwe,1280,Zimbabwe Drought Flash Appeal 2025,FZWE25,1/1/2025,6/1/2025,2025,6.0,Food Security,106603343.0,13439463.0,13.0
+429,611,ZWE,Zimbabwe,1280,Zimbabwe Drought Flash Appeal 2025,FZWE25,1/1/2025,6/1/2025,2025,7.0,Health,6833333.0,1545466.0,23.0
+430,612,ZWE,Zimbabwe,1280,Zimbabwe Drought Flash Appeal 2025,FZWE25,1/1/2025,6/1/2025,2025,26479.0,Multi-sector,275333.0,477106.0,173.0
+431,614,ZWE,Zimbabwe,1280,Zimbabwe Drought Flash Appeal 2025,FZWE25,1/1/2025,6/1/2025,2025,9.0,Nutrition,10208333.0,1224531.0,12.0
+432,616,ZWE,Zimbabwe,1280,Zimbabwe Drought Flash Appeal 2025,FZWE25,1/1/2025,6/1/2025,2025,12.0,Protection - Child Protection,852575.0,37778.0,4.0
+433,618,ZWE,Zimbabwe,1280,Zimbabwe Drought Flash Appeal 2025,FZWE25,1/1/2025,6/1/2025,2025,11.0,Water Sanitation Hygiene,11609216.0,287425.0,2.0
