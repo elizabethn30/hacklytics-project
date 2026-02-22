@@ -1,0 +1,18 @@
+<iframe
+  src="https://dbc-ccfd1c38-35c6.cloud.databricks.com/embed/dashboardsv3/01f10fb192e11e40af30da648fd78cb0?o=7474659980948892"
+  width="100%"
+  height="600"
+  frameborder="0">
+</iframe>
+
+import { DatabricksDashboard } from "@databricks/aibi-client";
+  
+const dashboard = new DatabricksDashboard({
+  instanceUrl: "https://dbc-ccfd1c38-35c6.cloud.databricks.com",
+  workspaceId: "7474659980948892",
+  dashboardId: "01f10fb192e11e40af30da648fd78cb0",
+  token: "<<CREATED_BY_YOUR_SERVER>>", // This token should be minted by your server
+  container: document.getElementById("dashboard-container"),
+});
+
+dashboard.initialize();
