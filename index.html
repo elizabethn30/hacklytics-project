@@ -1,3 +1,25 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <title>Visualizing U.N. Funding Disparity</title>
+
+    <style>
+      html,
+      body,
+      #viewDiv {
+        padding: 0;
+        margin: 0;
+        height: 100%;
+        width: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="viewDiv"></div>
+
 import { DatabricksDashboard } from "@databricks/aibi-client";
   
 const dashboard = new DatabricksDashboard({
@@ -9,3 +31,7 @@ const dashboard = new DatabricksDashboard({
 });
 
 dashboard.initialize();
+    
+  </body>
+</html>
+
